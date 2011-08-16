@@ -1,0 +1,4 @@
+
+.grid-page-frame{height: 330px; width: 100%; overflow: scroll-y;}
+.grid-page{border: 1px solid #000; width: 100%; height: 310px; float: left; margin-bottom: 10px; padding-top: 2px;}
+.grid-slot{border: 1px solid #000; width: 24%; height: 100px; float: left; margin-left: 2px;}
